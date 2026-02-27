@@ -1,4 +1,5 @@
 Employee Performance Management System
+
 This is a C-based program that allows a company to track employee information, calculate performance scores based on salary and experience, and manage records dynamically.
 
 Features
